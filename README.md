@@ -1,6 +1,5 @@
 # Stroke Prediction 
-(Note: You could Find Final Version in Main Branch, Master Branch is for editing and discussion)  
-Team member: Caihan Wang, Yifeng Tang, Jiajie Shen. 
+ Team member: Yifeng Tang, Caihan Wang, Jiajie Shen. 
 
 ## Description
 We are going to create an application which could predict the stroke of patients, giving their Gender, Age, Hypertension, Heart Disease, Ever Married, Work Type, Residence Type, Avg. Glucose Level, BMI, Smoking Status.
